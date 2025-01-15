@@ -29,7 +29,7 @@ def create_monthly_means(data):
     xarray.DataArray or xarray.Dataset: The resampled data with monthly means and time index shifted to the 15th of each month.
 
     Notes:
-    Original author: Cristina Arumi Planas (2024)
+    Original author: Cristina Arumí Planas (2024)
     """
 
     # Resample data to monthly means
