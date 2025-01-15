@@ -1,1 +1,1 @@
-# gyre_wind
+# gyre_wind study
